@@ -1,6 +1,7 @@
 from tkinter import *
 main = Tk()
 
+
 canvas = Canvas(main,height = 230, width = 200)
 canvas.pack()
 
